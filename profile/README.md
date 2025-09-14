@@ -35,7 +35,7 @@
 <img width="700" height="800" alt="image" src="https://github.com/user-attachments/assets/34e44283-494a-4b65-95e6-8138a0a36dfd" />
 
 
-<br>
+<br><br>
 
 ## 🔰 팀 노션
 

@@ -19,11 +19,11 @@
 
 ## 📷 작품 소개 사진
 
-<img width="700" height="604" alt="image" src="https://github.com/user-attachments/assets/3c21c204-516b-4ec6-8885-e4d59a5a45e2" />
+<img width="700" height="817" alt="image" src="https://github.com/user-attachments/assets/1fbfdf07-a703-4948-b871-6ea75018232a" />
 
 <br>
 
-<img width="700" height="2116" alt="투수2x_300dpi" src="https://github.com/user-attachments/assets/f03b731b-6fb4-443d-8a0e-214326f59466" />
+<img width="700" height="604" alt="image" src="https://github.com/user-attachments/assets/3c21c204-516b-4ec6-8885-e4d59a5a45e2" />
 
 <br>
 
@@ -31,8 +31,10 @@
 
 <br>
 
+<img width="700" height="2116" alt="투수2x_300dpi" src="https://github.com/user-attachments/assets/f03b731b-6fb4-443d-8a0e-214326f59466" />
 
-<img width="700" height="800" alt="image" src="https://github.com/user-attachments/assets/34e44283-494a-4b65-95e6-8138a0a36dfd" />
+
+
 
 
 <br><br>

@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d301941d-406e-44a4-a1ad-bfbcc5dc82e1" alt="Barion 프로젝트 패널" width="70%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
+  <img src="https://github.com/user-attachments/assets/d301941d-406e-44a4-a1ad-bfbcc5dc82e1" alt="Barion 프로젝트 패널" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
 </p>
 
 </details>
